@@ -19,7 +19,11 @@ With ARC you can :
 
 For an overview of ARC, please refer to "[ARC Overview](https://github.com/actions-runner-controller/actions-runner-controller/blob/master/docs/Actions-Runner-Controller-Overview.md)."
 
-
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 
 ## Getting Started
 
