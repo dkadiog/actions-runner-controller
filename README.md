@@ -18,13 +18,13 @@ With ARC you can :
 ## Overview
 
 For an overview of ARC, please refer to "[ARC Overview](https://github.com/actions-runner-controller/actions-runner-controller/blob/master/docs/Actions-Runner-Controller-Overview.md)."
-
+```mermaid
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
-
+```
 ## Getting Started
 
 ARC can be setup with just a few steps.
